@@ -1,7 +1,7 @@
 
 ## API AI
 
-### Enjoying alexa-bot-api?
+### Enjoying bot-api?
 
 **Consider Donating:**
 https://www.buymeacoffee.com/nithishpravin
@@ -10,7 +10,7 @@ https://www.buymeacoffee.com/nithishpravin
 https://discord.gg/5qzsfbK3HG
 
 **Developers**:
-[Nithish Pravin](https://github.com/Major-Thrust)
+[Paing Visal](https://github.com/VisalPaing)
 Discord: ᴇʀᴇɴ#0226
 
 **Whats new in v0.1.8**
