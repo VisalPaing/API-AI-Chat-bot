@@ -1,5 +1,5 @@
 
-## alexa-bot-api
+## API AI
 
 ### Enjoying alexa-bot-api?
 
@@ -7,11 +7,11 @@
 https://www.buymeacoffee.com/nithishpravin
 
 **Discord Server**:
-https://discord.gg/F2vrYyvF7v
+https://discord.gg/5qzsfbK3HG
 
 **Developers**:
 [Nithish Pravin](https://github.com/Major-Thrust)
-Discord: Nithish#6593
+Discord: ᴇʀᴇɴ#0226
 
 **Whats new in v0.1.8**
 - Minor bug fixes
